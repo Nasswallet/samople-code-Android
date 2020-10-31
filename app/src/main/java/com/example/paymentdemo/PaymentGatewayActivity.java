@@ -28,14 +28,14 @@ import retrofit2.Response;
 public class PaymentGatewayActivity extends AppCompatActivity {
     WebView webView;
     ProgressDialog mDialog;
-    String username = "7503491464";
-    String password = "Nass#2020";
-    String grantType = "password";
-    String transactionPin  = "135758";
-    String orderId = "263626";
-    String amount = "10";
+    String username = "";
+    String password = "";
+    String grantType = "";
+    String transactionPin  = "";
+    String orderId = "";
+    String amount = "";
     String languageCode = "en";
-    String basicToken = "Basic TUVSQ0hBTlRfQVBQOk1lcmNoYW50QEFkbWluIzEyMw==";
+    String basicToken = "";
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override

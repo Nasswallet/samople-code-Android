@@ -11,12 +11,6 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-
-import com.example.paymentdemo.LoginRequest;
-import com.example.paymentdemo.TransactionRequest;
-import com.example.paymentdemo.API;
-import com.example.paymentdemo.RetrofitClient;
-
 import org.jetbrains.annotations.NotNull;
 import org.json.JSONObject;
 
